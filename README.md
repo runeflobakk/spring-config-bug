@@ -1,7 +1,9 @@
 spring-config-bug
 =================
 
-There seems to be a bug in Spring (3.2.2.RELEASE at time of writing) occuring when using a certain combination of both Javaconfig and XML to configure the application context.
+There seems to be a bug in Spring (3.2.2.RELEASE and earlier at time of writing) occuring when using a certain combination of both Javaconfig and XML to configure the application context.
+
+Issue registered at Springsource: https://jira.springsource.org/browse/SPR-10496
 
 
 ## Configuration
